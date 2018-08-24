@@ -5,8 +5,7 @@ public class JavaDemo1 {
         java.add();
     }
     public void add(){
-        int i = 0;
-        System.out.println(i);
+        System.out.println("i+1");
     }
 
 }
